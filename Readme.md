@@ -1,4 +1,5 @@
-## Using two kinds of feature selection methods, recursive feature elimination (RFE) and sequential feature selector (SFS) to predict leukemia  
+## Using two kinds of feature selection methods, recursive feature elimination (RFE) and 
+sequential feature selector (SFS) for support vector machine (SVM) to predict leukemia  
 The leukemia dataset contains 7218 genes from 72 samples. These data are classified into two type of leukemia, acute 
 lymphocytic leukemia (ALL) and acute myelocytic leukemia (AML).
 We run 50 iterations with different feature numbers, feature selection methods, and different kernels. 
