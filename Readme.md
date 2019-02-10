@@ -2,7 +2,7 @@
 The leukemia dataset contains 7218 genes from 72 samples. These data are classified into two type of leukemia, acute 
 lymphocytic leukemia (ALL) and acute myelocytic leukemia (AML).
 We run 50 iterations with different feature numbers, feature selection methods, and different kernels. 
-The feature numbers vary from 10 to 140. In each iteration, randomized the order of the samples before selecting 
+The feature numbers vary from 10 to 70. In each iteration, randomized the order of the samples before selecting 
 38 training data and 34 testing data.  That means the training data and testing data consist of different samples 
 everytime. Then we calculate the Matthews correlation coefficient to evaluate the result of each feature selection method.
 ## The result visualized in violin plot:
