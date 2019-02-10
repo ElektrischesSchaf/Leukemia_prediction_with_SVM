@@ -1,5 +1,5 @@
 ## Using two kinds of feature selection methods, recursive feature elimination (RFE) and sequential feature selector (SFS)   
-## The leukemia dataset contains 7218 genes from 72 samples. These data are classified into two type of Leukemia, acute lymphocytic leukemia (ALL) and acute myelocytic leukemia (AML).
+The leukemia dataset contains 7218 genes from 72 samples. These data are classified into two type of Leukemia, acute lymphocytic leukemia (ALL) and acute myelocytic leukemia (AML).
 We do 50 iterations with different feature numbers, feature selection methods, and different kernels. In each iteration, randomized the 
 order before selecting 38 training data and 34 testing data. That means the training data and testing data consist of different samples 
 everytime. Then we calculate the Matthews correlation coefficient to evaluate the result of each feature selection method.
