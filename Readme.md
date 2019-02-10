@@ -2,7 +2,7 @@
 ## With two kinds of feature selection methods, recursive feature elimination (RFE) and sequential feature selector (SFS)   
 
 ## The result showed in violin plot:
-![01](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Training_RFE_Linear_Classification_Kernel.PNG)
+![01](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Training_RFE_Linear_Classification_Kernel.PNG)  
 1. Training data with RFE linear classification kernel
 ---
 ![02](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Testing_RFE_Linear_Classification_Kernel.PNG)
