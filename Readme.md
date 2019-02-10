@@ -6,23 +6,23 @@
 1. Training data with RFE linear classification kernel
 ---
 ![02](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Testing_RFE_Linear_Classification_Kernel.PNG)
-1. Testing data with RFE linear classification kernel
+2. Testing data with RFE linear classification kernel
 ---
 ![03](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Training_RFE_RBF_Classification_Kernel.PNG)
-1. Training data with RFE RBF classification kernel
+3. Training data with RFE RBF classification kernel
 ---
 ![04](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Testing_RFE_RBF_Classification_Kernel.PNG)
-1. Testing data with RFE RBF classification kernel
+4. Testing data with RFE RBF classification kernel
 ---
 ![05](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Training_SFS_KNN_Regression_Kernel.PNG)
-1. Training data with SFS KNN regression kernel
+5. Training data with SFS KNN regression kernel
 ---
 ![06](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Testing_SFS_KNN_Regression_Kernel.PNG)
-1. Testing data with SFS KNN regression kernel
+6. Testing data with SFS KNN regression kernel
 ---
 ![07](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Training_SFS_Logistic_Regression_Kernel.PNG)
-1. Training data with SFS KNN logistic kernel
+7. Training data with SFS KNN logistic kernel
 ---
 ![08](https://github.com/ElektrischesSchaf/Leukemia_prediction_with_SVM/blob/master/violin_plot/Testing_SFS_Logistic_Regression_Kernel.PNG)
-1. Testing data with SFS KNN logistic kernel
+8. Testing data with SFS KNN logistic kernel
 ---
