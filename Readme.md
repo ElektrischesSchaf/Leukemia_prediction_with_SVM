@@ -1,7 +1,7 @@
 ## Using two kinds of feature selection methods, recursive feature elimination (RFE) and sequential feature selector (SFS) for support vector machine (SVM) to predict leukemia.
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1854--4003-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1854-4003)
 [![License](https://img.shields.io/github/license/ElektrischesSchaf/Leukemia_prediction_with_SVM?color=750014)](./LICENSE)
-
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 ---
 The leukemia dataset contains 7218 genes from 72 samples. These data are classified into two type of leukemia, acute 
 lymphocytic leukemia (ALL) and acute myelocytic leukemia (AML).
